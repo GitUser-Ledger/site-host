@@ -1,0 +1,22 @@
+header{
+    background-color:coral;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+header h1{
+    color: white;
+}
+
+main{
+    background-color: rgb(185, 152, 140);
+    text-align: center;
+    color: white;
+}
+
+.text{
+    color: red;
+}
+
+
